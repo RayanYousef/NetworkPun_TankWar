@@ -12,7 +12,6 @@ Tank Wars is a multiplayer game where tanks are controlled by players who engage
 -   The game was developed using the Photon Engine.
 -   Players can team up with others and form their own strategy to win battles.
 -   The graphics and sound effects are designed to create an immersive and engaging experience for the players.
-- 
 <br/>
 Video Link: 
 https://drive.google.com/file/d/1qrLcVnfWxddE6j3LPVUaEAhn9NQVGND6/view?usp=share_link
