@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_MainAsset/Scenes/Offline_Tanks_Pun.unity
+    guid: 0d1737e6183491544975b4817ed9e6de
+  - enabled: 1
+    path: Assets/_MainAsset/Scenes/Online_Tank_Pun.unity
+    guid: 8726131241355604e916d032c14db45f
+  m_configObjects: {}
